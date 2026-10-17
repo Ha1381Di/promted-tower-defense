@@ -1,5 +1,4 @@
-<img width="1531" height="972" alt="image" src="https://github.com/user-attachments/assets/a98f444e-e746-42d1-8921-a8e34ebbf34f" />## promted tower defence
-This project is my entry for [promted.com]([https://www.prmpted.com/?ref=hadi_1_referral]). It's a tower defense game. At the time of submitting it to the contest, it had 13 different types of monsters, 3 kind of towers and only one set of surface graphics. The major goal of that game is to kill all the monsters approaching you via choosing the right amount of towers.
+This project is my entry for [promted.com)](https://www.prmpted.com/?ref=hadi_1_referral]). It's a tower defense game. At the time of submitting it to the contest, it had 13 different types of monsters, 3 kind of towers and only one set of surface graphics. The major goal of that game is to kill all the monsters approaching you via choosing the right amount of towers.
 
 ## Play the game!
 
