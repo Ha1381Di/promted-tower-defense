@@ -1,9 +1,9 @@
-## promted tower defence
-This project is my entry for [js13kgames](http://js13kgames.com/). It's a tower defense game in less than 13kb (13,312 bytes). At the time of submitting it to the contest, it had 13 different types of monsters, 3 kind of towers and only one set of surface graphics. The major goal of that game is to kill all the monsters approaching you via choosing the right amount of towers.
+<img width="1531" height="972" alt="image" src="https://github.com/user-attachments/assets/a98f444e-e746-42d1-8921-a8e34ebbf34f" />## promted tower defence
+This project is my entry for [promted.com]([https://www.prmpted.com/?ref=hadi_1_referral]). It's a tower defense game. At the time of submitting it to the contest, it had 13 different types of monsters, 3 kind of towers and only one set of surface graphics. The major goal of that game is to kill all the monsters approaching you via choosing the right amount of towers.
 
 ## Play the game!
 
-[Just click here :)](http://sdepold.github.com/promted tower defence/index.html)
+[Just click here :)](https://ha1381di.github.io/promted-tower-defense/)
 
 ## "13" related details
 - 13 monster types
@@ -29,15 +29,6 @@ This project is my entry for [js13kgames](http://js13kgames.com/). It's a tower 
     - Chrome 21
     - Firefox 14
 
-## Future development
-
-The submitted entry is tagged with `v1.0.0`. Everything that followed that tag is additional content, that might break the 13KB limit. However, I will try to stay below that limit :)
-
-## Sources
-
-- Graphics:
-  - [Remastered Tyrian Graphics](http://www.lostgarden.com/2007/04/free-game-graphics-tyrian-ships-and.html)
-  - [Hard Vacuum](http://www.lostgarden.com/2005/03/game-post-mortem-hard-vacuum.html)
 
 ## Build the dist:
 ```js
